@@ -1,0 +1,9 @@
+weeget/
+perl/
+python/
+logs/
+country/
+lua/
+*.gzip
+script/
+*.log
